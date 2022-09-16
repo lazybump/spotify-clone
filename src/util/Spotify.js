@@ -1,7 +1,7 @@
 let accessToken = '';
 
 const clientId = '79a20e7a270f475aa119f62741f6107c';
-const redirectURI = 'https://symphony-app.surge.sh'
+const redirectURI = 'https://symphony-react.herokuapp.com/'
 const scope = 'playlist-modify-public'
 
 let endpoint = 'https://accounts.spotify.com/authorize';
