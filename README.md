@@ -1,6 +1,8 @@
 # Spotify clone with React
 
-Small clone site that lets you search for songs and create your own playlist which you can then save to your Spotify account.
+Clone site that lets you search for songs and create your own playlist which you can then save to your Spotify account.
+
+Live version ----> https://symphony-react.herokuapp.com/
 
 **Tech used:** HTML, CSS, React, Spotify API
 
